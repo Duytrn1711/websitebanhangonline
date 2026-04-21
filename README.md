@@ -12,14 +12,14 @@ Dự án **NEUSHOP** là website thương mại điện tử xây dựng bằng 
 1. Mở thư mục dự án trong VS Code.
 2. Cài extension **Live Server**.
 3. Chuột phải vào file `NEUSHOP.html` → chọn **Open with Live Server**.
-4. Trinh duyet se mo dia chi localhost (vi du: `http://127.0.0.1:5500/NEUSHOP.html`).
+4. Trình duyệt sẽ mở địa chỉ localhost (ví dụ: `http://127.0.0.1:5500/NEUSHOP.html`).
 
 ## 2) Hướng dẫn sử dụng web cho người dùng
 
 1. **Vào trang chủ:** Mở `NEUSHOP.html` để xem banner, danh mục và sản phẩm nổi bật.
 2. **Xem danh sách sản phẩm:** Bấm vào menu hoặc đường dẫn để sang trang `products.html`.
-3. **Loc theo danh muc:** Chọn danh mục để lọc nhanh sản phẩm theo nhu cầu.
-4. **Tim kiem san pham:** Nhập từ khóa trên thanh tìm kiếm để hiển thị kết quả phù hợp.
+3. **Lọc theo danh mục:** Chọn danh mục để lọc nhanh sản phẩm theo nhu cầu.
+4. **Tìm kiếm sản phẩm:** Nhập từ khóa trên thanh tìm kiếm để hiển thị kết quả phù hợp.
 5. **Xem chi tiết sản phẩm:** Bấm vào từng sản phẩm để vào trang `product-detail.html`.
 6. **Thêm vào giỏ hàng:** Bấm nút "Thêm vào giỏ" ở thẻ sản phẩm hoặc trong trang chi tiết.
 7. **Quản lý giỏ hàng:** Mở khu vực giỏ hàng để tăng/giảm số lượng, xóa sản phẩm và xem tổng tiền.
